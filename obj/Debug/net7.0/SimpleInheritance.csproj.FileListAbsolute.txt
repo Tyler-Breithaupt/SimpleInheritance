@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/bin/Debug/net7.0/SimpleInheritance
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/bin/Debug/net7.0/SimpleInheritance.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/bin/Debug/net7.0/SimpleInheritance.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/bin/Debug/net7.0/SimpleInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/bin/Debug/net7.0/SimpleInheritance.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/refint/SimpleInheritance.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/SimpleInheritance.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SimpleInheritance/obj/Debug/net7.0/ref/SimpleInheritance.dll
